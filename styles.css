@@ -1,0 +1,72 @@
+body{
+    background-color:whitesmoke;
+}
+
+h1 {
+    text-align: left;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+
+.topnav {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.918);
+    overflow: hidden;
+  }
+  
+  
+  .topnav a {
+    float: left;
+    padding: 12px 0px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 25%; 
+    text-align: center; 
+  }
+  
+  
+  .topnav a:hover {
+    background-color: rgb(9, 215, 252);
+    color: black;
+  }
+  
+
+#home{
+    height: 20vh;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    text-align: center;
+    font-weight: 700;
+    padding: 2%;
+    text-underline-position: below;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+}
+
+section{
+    height: 100vh;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+}
+
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+hr{
+    
+    border-top: 1px solid rgb(9, 215, 252);
+    border-radius: 5px;
+}
+
+  
+
+
