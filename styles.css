@@ -1,19 +1,46 @@
 body{
     background-color:whitesmoke;
+    margin-top: 25px;
+   
+    
 }
 
 h1 {
-    text-align: left;
+    text-align: center;
     font-family:'Courier New', Courier, monospace;
     font-size: 50px;
     font-weight: 700;
 }
 
 
+#aboutme{
+    padding-left: 230px;
+}
+
+ul{
+    padding-left: 250px;
+}
+
+img{
+    float: left;
+    width: 200px;
+    height: 300px;
+    border-radius: 5%;
+    border: 2px solid black;
+    
+  
+}
+
+
+
+
+
 .topnav {
     width: 100%;
     background-color: rgba(0, 0, 0, 0.918);
     overflow: hidden;
+    
+   
   }
   
   
@@ -40,8 +67,15 @@ h1 {
     font-size: x-large;
     text-align: center;
     font-weight: 700;
-    padding: 2%;
-    text-underline-position: below;
+    padding-top: 100px;
+
+}
+
+#underhome{
+    height: 20vh;
+    text-align: center;
+    font-size: large ;
+    font-weight: 700;
 }
 
 h2{
@@ -53,20 +87,16 @@ section{
     height: 100vh;
     padding-left: 2%;
     padding-right: 2%;
+    border-top: 1px solid rgb(9, 215, 252);
+    border-radius: 5px;
     
 }
 
 
 h2{
     font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
 }
 
-hr{
-    
-    border-top: 1px solid rgb(9, 215, 252);
-    border-radius: 5px;
-}
-
-  
 
 
